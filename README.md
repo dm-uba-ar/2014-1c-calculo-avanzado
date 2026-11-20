@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Juan José Guccione
-- **Clases prácticas:** Leandro Lombardi, Jazmín Schmunis, Maximiliano Valle
-
 ## Prácticas
 
 - [Números Reales.](practica1.pdf)
